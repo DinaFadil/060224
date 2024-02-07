@@ -2,18 +2,22 @@
 import lesson1.*;
 
 public class App {
+    
+}
+
+/*public class App {
 
 
     public static void main (String[] args) {
         Moveable moveable = new Dog();
         moveable.move();
-        /*String msg
+        String msg
         System.out.println("Hello World!");
         lesson1();
-        lesson2();*/
+        lesson2();
     }
 
-    /*public static void lesson2(){
+    public static void lesson2(){
         int numberOfVessels = 15;
         int[] dimension = {2,4,7};
         IntegerHandler integerHandler = new IntegerHandler(numberOfVessels, dimension);
@@ -25,9 +29,10 @@ public class App {
         StringHandler stringHandler = new StringHandler("my class");
         stringHandler.setStr("my new class");
         System.out.println(stringHandler.toString());
-    }*/
+    }
 
-}
+}*/
+
 
 //public class App {
 //    public static void main(String[] args) throws Exception {

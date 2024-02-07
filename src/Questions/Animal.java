@@ -1,4 +1,4 @@
-package Question9;
+package Questions;
 
 public abstract class Animal {
 

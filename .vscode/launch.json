@@ -6,12 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial2",
+            "request": "launch",
+            "mainClass": "Factorial2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "EXERCISE2",
+            "request": "launch",
+            "mainClass": "EXERCISE2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAdd",
+            "request": "launch",
+            "mainClass": "MatrixAdd",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "exec4",
+            "request": "launch",
+            "mainClass": "lesson2.exec4",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "ElvisOperator",
+            "request": "launch",
+            "mainClass": "lesson2.ElvisOperator",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Numerics",
+            "request": "launch",
+            "mainClass": "lesson2.Numerics",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "exec3",
+            "request": "launch",
+            "mainClass": "lesson2.exec3",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "exec1",
+            "request": "launch",
+            "mainClass": "lesson2.exec1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "exec2",
+            "request": "launch",
+            "mainClass": "lesson2.exec2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Question18",
+            "request": "launch",
+            "mainClass": "Question9.Question18",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "Assignment1",
             "request": "launch",
             "mainClass": "Assignment1",
             "args": [
                 "Dinz",
-                "18"
+                "18",
+                "lol18"
             ],
             "projectName": "App1_64fd425f"
         },
