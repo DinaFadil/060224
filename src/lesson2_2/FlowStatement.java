@@ -1,3 +1,4 @@
+package lesson2_2;
 import java.util.Scanner;
 
 public class FlowStatement {
@@ -10,13 +11,14 @@ public class FlowStatement {
         System.out.println("Enter the value of y: ");
         int intC = sc.nextInt();
 
-        System.out.println(BloC(intA, intB, intC););
+        System.out.println(BloC(intA, intB, intC));
+        sc.close();
     }
 
-    public static void BloC(int a, int b, int c){
+    public static int BloC(int a, int b, int c){
         int m = 0;
-        int m = (a <= b) ? b : a;
-        int m = (m >= c) ? m : c; 
+        m = (a <= b) ? b : a;
+        m = (m >= c) ? m : c; 
         return m;
     }
 

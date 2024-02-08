@@ -1,3 +1,4 @@
+package lesson2_2;
 import java.util.Scanner;
 
 public class SwitchCase {
@@ -17,7 +18,7 @@ public class SwitchCase {
                 ret = "Tuesday";
                 break;
             case "m": case "mon": case "md": 
-                if()
+                //if()
                 ret = "Monday";
                 break;
             case "th":

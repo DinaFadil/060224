@@ -1,6 +1,7 @@
 package lesson2;
 
 import java.io.IOException;
+import java.util.Scanner;
 
 
 public class ElvisOperator {
@@ -16,6 +17,7 @@ public class ElvisOperator {
         int highest = (intA > intB) ? (intA < 15) ? 15 : 20 : intB;
 
         System.out.println(highest);
+        scanner.close();
     }
 
 }
