@@ -1,3 +1,3 @@
 package Questions;
 
-public class Dog extends Animal implements Moveable {}
+//public class Dog extends Animal implements Moveable {}

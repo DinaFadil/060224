@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "powmatrix",
+            "request": "launch",
+            "mainClass": "Assignments.powmatrix",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "testingmatrix",
+            "request": "launch",
+            "mainClass": "Assignments.testingmatrix",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "NthPowMatrix",
+            "request": "launch",
+            "mainClass": "Assignments.NthPowMatrix",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimension",
+            "request": "launch",
+            "mainClass": "Assignments.MultiDimension",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Assignments.SelectionSort",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "testselectionsort",
+            "request": "launch",
+            "mainClass": "Assignments.testselectionsort",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "GenerateArray",
+            "request": "launch",
+            "mainClass": "Assignments.GenerateArray",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment4_2",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment4_2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment4_1",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment4_1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "ArrayListStringManipulator",
             "request": "launch",
             "mainClass": "lesson3.ArrayListStringManipulator",
