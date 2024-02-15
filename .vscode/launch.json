@@ -6,6 +6,150 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Encryption",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.Encryption",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Encryption",
+            "request": "launch",
+            "mainClass": "lesson5.Encryption",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "ReadFile",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.ReadFile",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Assignmentfile",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.Assignmentfile",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SocketServerExample",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.SocketServerExample",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SocketClientExample",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.SocketClientExample",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SocketExample",
+            "request": "launch",
+            "mainClass": "lesson5.Socket.SocketExample",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "DeserializationExample",
+            "request": "launch",
+            "mainClass": "lesson5.Files.DeserializationExample",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "SerializationExample",
+            "request": "launch",
+            "mainClass": "lesson5.Files.SerializationExample",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Guest",
+            "request": "launch",
+            "mainClass": "SoalanTest.Guest",
+            "args": [
+                "James",
+                "Gosling"
+            ],
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Message",
+            "request": "launch",
+            "mainClass": "SoalanTest.Message",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MainOuter",
+            "request": "launch",
+            "mainClass": "lesson4.InnerClass.MainOuter",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MainPOJO",
+            "request": "launch",
+            "mainClass": "lesson4.POJOClass.MainPOJO",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MainSingleton",
+            "request": "launch",
+            "mainClass": "lesson4.SingletonClass.MainSingleton",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MainFinal",
+            "request": "launch",
+            "mainClass": "lesson4.FinalClass.MainFinal",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.AbstractClass.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.StaticClass.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "TEST",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "Assignment2",
             "request": "launch",
             "mainClass": "Assignments.Assignment2",
