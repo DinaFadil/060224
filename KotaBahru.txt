@@ -1,0 +1,3 @@
+[Kota Bharu]
+Temperature : 30
+Humidity : 70

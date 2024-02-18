@@ -1,0 +1,3 @@
+[Kuala Lumpur]
+Temperature : 31
+Humidity : 61

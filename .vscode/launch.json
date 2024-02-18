@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WeatherApp",
+            "request": "launch",
+            "mainClass": "lesson9.WeatherApp.WeatherApp",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.RemoteSensingSystem.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.RemoteControlSystem.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.Generic.GenericAlgortihm.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.FileCompressionUtility.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "GenericMap",
+            "request": "launch",
+            "mainClass": "lesson8.Generic.GenericMap.GenericMap",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.ShapeSorting.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson9.DrawingProgram.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.AnimalHierarchy.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "ToDoListManager",
+            "request": "launch",
+            "mainClass": "lesson9.ToDoListManager.ToDoListManager",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConverter",
+            "request": "launch",
+            "mainClass": "lesson9.TemperatureConverter.TemperatureConverter",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "lesson9.SimpleCalculator.Calculator",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.Generic.GenericMaximizer.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.SortingAlgorithmInterface.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.Generic.GenericQueue.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.VehicleInterface.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson8.AbstractClassLesson8.BankAccountInterface.Main",
