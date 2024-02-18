@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.AbstractClassLesson8.BankAccountInterface.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApp",
+            "request": "launch",
+            "mainClass": "lesson9.Example.ExpenseTrackerApp",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MusicPlayerGUI",
+            "request": "launch",
+            "mainClass": "lesson9.Music.MusicPlayerGUI",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MusicPlayerGUI",
+            "request": "launch",
+            "mainClass": "lesson9.Example.Music.MusicPlayerGUI",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "TestCompareTo",
+            "request": "launch",
+            "mainClass": "lesson8.GenericSearch.TestCompareTo",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "lesson8.GenericSearch.Main1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "GenericQueue1",
+            "request": "launch",
+            "mainClass": "lesson8.GenericQueue.GenericQueue1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "GenericQueue",
+            "request": "launch",
+            "mainClass": "lesson8.GenericQueue.GenericQueue",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "GenericStack",
+            "request": "launch",
+            "mainClass": "lesson8.GenericStack.GenericStack",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.GenericSearch.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main$GenericSearch",
+            "request": "launch",
+            "mainClass": "lesson8.GenericSearch.Main$GenericSearch",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.MessagingSystem1.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.MessagingSystem.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "Encryption",
             "request": "launch",
             "mainClass": "lesson5.Socket.Encryption",
