@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson9.Music.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "WeatherApp",
             "request": "launch",
             "mainClass": "lesson9.WeatherApp.WeatherApp",
