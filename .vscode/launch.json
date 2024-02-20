@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "lesson9.ToDoList.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson10.Expense.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson10.Main",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "MusicPlayerGUI2",
+            "request": "launch",
+            "mainClass": "lesson9.Music2.MusicPlayerGUI2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "lesson9.Music.Main",
             "projectName": "App1_64fd425f"
         },

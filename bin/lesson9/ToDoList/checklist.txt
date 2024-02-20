@@ -1,0 +1,8 @@
+Swing API forms
+Abstract Classes               DONE Listener
+Interfaces                     DONE Implement ActionListener
+Inner Classes                  DONE TaskDetails in ToDo model class
+Exception Handling             DONE blank text input, delete item without select any
+File IO                        DONE print list to an output txt file
+Overloading and Overriding     DONE toString in ToDo POJO class
+Gui Interface                  DONE ToDoListManagerApp.java
