@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadInterruption",
+            "request": "launch",
+            "mainClass": "lesson11.ThreadInterruption",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading",
+            "request": "launch",
+            "mainClass": "lesson11.Multithreading",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Lambda",
+            "request": "launch",
+            "mainClass": "lesson11.Lambda",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "SoalanTest.Test",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson9.ToDoList.Main",
