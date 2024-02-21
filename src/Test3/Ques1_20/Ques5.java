@@ -28,3 +28,7 @@ public class Ques5 {
         obj.C();
     }   
 }
+
+/*Class Y correctly extends class X and it overrides method A() and provides two new methods B() and C().
+
+At Line n1, obj is of X type and therefore obj.B(); and obj.C(); cause compilation error as these methods are not defined in class X. */
