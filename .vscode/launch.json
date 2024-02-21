@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ques20",
+            "request": "launch",
+            "mainClass": "Test3.Ques1_20.Ques20",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Ques11",
+            "request": "launch",
+            "mainClass": "Test3.Ques1_20.Ques11",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Ques4",
+            "request": "launch",
+            "mainClass": "Test3.Ques1_20.Ques4",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Ques3",
+            "request": "launch",
+            "mainClass": "Test3.Ques1_20.Ques3",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Ques2",
+            "request": "launch",
+            "mainClass": "Test3.Ques1_20.Ques2",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
+            "name": "Ques1",
+            "request": "launch",
+            "mainClass": "Test3.Ques1",
+            "projectName": "App1_64fd425f"
+        },
+        {
+            "type": "java",
             "name": "ThreadInterruption",
             "request": "launch",
             "mainClass": "lesson11.ThreadInterruption",
