@@ -11,9 +11,10 @@ class Derived extends Base{
 public class Ques2 {
 
     public static void main(String[] args) {
-        Base obj1 = new Base();
-        Base obj2 = new Derived();
-        Derived obj3 = (Derived) obj2;
+        Base obj1 = new Base(); //obj1 from Base class is an instance of the Base(), of course will print INHALE
+        Base obj2 = new Derived(); //obj2 from Base class is an instance of Derived(), (from previous understanding, kalau one class extend another with text it will print that class punya text that was extended and then operate the inside of the class doing the extending)
+        //but since obj2 is from Base class it will only print INHALE 
+        Derived obj3 = (Derived) obj2; //this is casting operation, obj3 is an instance of obj2 from Derived class. obj3 is from Derived class so it will only print EXHALE
         String text = obj1.msg + "-" + obj2.msg + "-" + obj3.msg;
         System.out.println(text);
     }
